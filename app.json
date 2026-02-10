@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "owner": "leonelll",
     "splash": {
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
@@ -17,10 +18,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.leonelll.bockapp",
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.leonelll.bockapp"
+      }
     },
     "extra": {
       "eas": {
