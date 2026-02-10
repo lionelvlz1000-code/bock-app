@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Bock Simulacro",
+    "slug": "bock-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.bock.simulacro"
+    }
+  }
+}
